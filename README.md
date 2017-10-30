@@ -1,7 +1,6 @@
-# studies :mortar_board:
+# :mortar_board: Studies
 Courses, books and other things
 
+### :books: Books
 
-### :books: Books 
- 
-### :computer: Courses 
+### :computer: Courses
