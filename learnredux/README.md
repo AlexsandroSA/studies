@@ -14,6 +14,6 @@ In 2.5 hours, You'll build 'Reduxstagram' — a simple photo app that will simpl
 ## Quick start
 
  1. Clone the repo: git clone `https://github.com/AlexsandroSA/studies`
- 2. From the root /learnredux directory, run `npm install` in the command line..
+ 2. From the root __/learnredux__ directory, run `npm install` in the command line
  3. After install all depencedes run `npm start`
- 4. Open http://localhost:7770 in your browser, and voilà.
+ 4. Open http://localhost:7770 in your browser, and voilà :bowtie:
