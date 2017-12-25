@@ -11,7 +11,7 @@ All annotations and codes were based on the course created by Wes Bos. Below som
 
 In 2.5 hours, You'll build 'Reduxstagram' — a simple photo app that will simplify the core ideas behind Redux, React Router and React.js
 
-## Quick start
+## Get Started
 
  1. Clone the repo: git clone `https://github.com/AlexsandroSA/studies`
  2. From the root __/learnredux__ directory, run `npm install` in the command line
