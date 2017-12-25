@@ -2,7 +2,7 @@
 
 Todas as anotações e códigos foram baseados no curso criado por [Willian Justen](https://willianjusten.com.br/). Abaixo de algumas informações úteis.
 
- - Udemy(https://www.udemy.com/aprendendo-svg-do-inicio-ao-avancado/)
+ - [Udemy](https://www.udemy.com/aprendendo-svg-do-inicio-ao-avancado/)
 
 ### Sobre o curso
 
