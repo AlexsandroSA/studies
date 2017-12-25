@@ -1,6 +1,8 @@
 # Learn Redux by Wes Bos
 
-All annotations and codes were based on the course created by Wes Bos. Below some useful information.
+![Cover: Daily Programming Challenges](./studies-cover-learn-redux.png)
+
+All annotations and codes were based on the course created by [Wes Bos](http://wesbos.com). Below some useful information.
 
  - [__Website__](https://learnredux.com/)
  - [__Youtube__](https://www.youtube.com/watch?v=hmwBow1PUuo&list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
