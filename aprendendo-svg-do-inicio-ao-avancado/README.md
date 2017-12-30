@@ -1,7 +1,10 @@
 # Aprendendo SVG Do Início ao Avançado by Willian Justen
 
-Todas as anotações e códigos foram baseados no curso criado por [Willian Justen](https://willianjusten.com.br/). Abaixo de algumas informações úteis.
+Todas as anotações e códigos do cursos foram baseada no curso ministrado por [Willian Justen](https://willianjusten.com.br/) com algumas alterações e modificaçes feitas por mim. 
 
+Abaixo de algumas informações úteis:
+
+ - [Willian Justen](https://willianjusten.com.br/)(blog pessoal)
  - [Udemy](https://www.udemy.com/aprendendo-svg-do-inicio-ao-avancado/)
 
 ### Sobre o curso
