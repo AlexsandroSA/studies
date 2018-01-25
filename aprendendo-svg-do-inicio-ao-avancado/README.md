@@ -16,3 +16,8 @@ O curso tem como objetivo passar desde os conceitos básicos do SVG até os mais
 ### Get Started
 
  [Codepen: Aprendendo SVG Do Início ao Avançado](https://codepen.io/collection/Xjyrdg/)
+
+
+### Certificado
+
+[Certificado do curso Aprendendo SVG Do Início ao Avançado](https://www.udemy.com/certificate/UC-90NO840E/)
