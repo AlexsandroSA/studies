@@ -13,8 +13,6 @@ Abaixo de algumas informações úteis:
 
 O curso tem como objetivo passar desde os conceitos básicos do SVG até os mais avançados, permitindo criar basicamente o que se quiser com SVG. O curso é desenvolvido em pequenos módulos com vídeos curtos, facilitando assim o aprendizado e o desenvolvimento do aluno, visando sempre uma didática simples, concisa e bastante aplicada a prática de trabalho.
 
-Existem alguns projetos ao decorrer do curso, para aplicarmos os conceitos aprendidos, fazendo com que o aluno perceba sua evolução e também comece a trabalhar mais em sua parte criativa e com código.
-
 ### Get Started
 
-...
+ [Codepen: Aprendendo SVG Do Início ao Avançado](https://codepen.io/collection/Xjyrdg/)
