@@ -2,7 +2,7 @@
 
 ![Capa: Aprendendo SVG Do Início ao Avançado](./cover-svg-aprendendo-do-inicio-ao-avancado.png)
 
-Todas as anotações e códigos foram baseadas no curso ministrado por [Willian Justen](https://willianjusten.com.br/) com algumas edições feitas por mim. 
+Todas as anotações e códigos foram baseadas no curso ministrado por [Willian Justen](https://willianjusten.com.br/) com algumas edições feitas por mim.
 
 Abaixo de algumas informações úteis:
 
@@ -15,8 +15,7 @@ O curso tem como objetivo passar desde os conceitos básicos do SVG até os mais
 
 ### Get Started
 
- [Codepen: Aprendendo SVG Do Início ao Avançado](https://codepen.io/collection/Xjyrdg/)
-
+Em breve...
 
 ### Certificado
 
