@@ -90,5 +90,4 @@
     }
 
     console.log( numbers );
-
 })();
