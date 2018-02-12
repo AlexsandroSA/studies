@@ -23,3 +23,4 @@ O objetivo desse curso é ensinar JavaScript DE VERDADE! Se você já está a mu
  - [challenge-10](./challenge-10/challenge-10.js)
  - [challenge-11](./challenge-11/challenge-11.js)
  - [challenge-12](./challenge-12/challenge-12.js)
+ - [challenge-13](./challenge-13/challenge-13.js)
