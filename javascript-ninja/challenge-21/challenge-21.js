@@ -19,7 +19,6 @@ dado ao elemento HTML deve definir o que o elemento é ou o que ele faz.
 
     // Variables
     var timerId;
-    var counter = 0;
     var timerAction = {
         start: start,
         stop: stop,
