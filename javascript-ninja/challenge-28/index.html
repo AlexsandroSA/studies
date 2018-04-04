@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Challenge 27</title>
+</head>
+<body>
+    <div class="container">
+      <form class="form" data-form="cep">
+            <label>CEP</label>
+            <input type="text" name="cep" data-field="cep">
+            <button type="submit">Buscar</button>
+      </form>
+
+      <h3 data-feedback="status"></h3>
+
+      <div data-feedback="cep-info" style="display:none;">
+        <p><b>Logradouro:</b> <span data-address="logradouro"></span></p>
+        <p><b>Bairro:</b> <span data-address="bairro"></span></p>
+        <p><b>Estado:</b> <span data-address="estado"></span></p>
+        <p><b>Cidade:</b> <span data-address="cidade"></span></p>
+        <p><b>CEP:</b> <span data-address="cep"></span></p>
+      </div>
+    </div>
+
+    <script src="./dom.js"></script>
+    <script src="./challenge-28.js"></script>
+</body>
+</html>
