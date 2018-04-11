@@ -44,3 +44,7 @@ O objetivo desse curso é ensinar JavaScript DE VERDADE! Se você já está a mu
  - [challenge-31](./challenge-31/challenge-31.js)
  - [challenge-32](./challenge-32/challenge-32.js)
  - [challenge-33](./challenge-33/challenge-33.js)
+
+### Certificado
+
+[Certificado do curso Javascript Ninja](https://www.udemy.com/certificate/UC-TX1XZETC/)
