@@ -2,7 +2,7 @@
 
 Abaixo de algumas informações úteis:
 
- - [Willian Justen](https://blog.da2k.com.br/) (blog pessoal)
+ - [Willian Justen](https://willianjusten.com.br/) (blog pessoal)
  - [Udemy](https://www.udemy.com/js-com-tdd-na-pratica/)
 
 ### Sobre o curso
