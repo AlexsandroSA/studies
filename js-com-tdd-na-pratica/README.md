@@ -12,3 +12,4 @@ O curso tem como objetivo passar de forma prática e eficiente como se trabalhar
 ### Projetos
 
  - [Calculadora Simples](./calculadora-simples)
+ - [FizzBuzz](./fizzbuzz)
