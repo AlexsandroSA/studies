@@ -13,3 +13,4 @@ O curso tem como objetivo passar de forma prática e eficiente como se trabalhar
 
  - [Calculadora Simples](./calculadora-simples)
  - [FizzBuzz](./fizzbuzz)
+ - [Spotify Wrapper](./spotify-wrapper)
