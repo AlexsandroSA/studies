@@ -1,6 +1,6 @@
-# :game_die: FizzBuzz
+# :sound: Wrapper Spotify
 
-Desafio FizzBuzz com javascript usando TDD
+Desafio __wrapper-spotify__ em node usando TDD
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ git clone git@github.com:AlexsandroSA/studies.git
 
 2. Entre no diretório do projeto
 ```
-cd studies/js-com-tdd-na-pratica/fizzbuzz
+cd studies/js-com-tdd-na-pratica/spotify-wrapper
 ```
 
 3. Instale todas as dependências
