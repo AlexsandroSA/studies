@@ -11,6 +11,8 @@ O curso tem como objetivo passar de forma prática e eficiente como se trabalhar
 
 ### Projetos
 
- - [Calculadora Simples](./calculadora-simples)
- - [FizzBuzz](./fizzbuzz)
- - [Spotify Wrapper](./spotify-wrapper)
+...
+
+### Cerificado
+
+[Certificado do curso JS com TDD na Prática](https://www.udemy.com/certificate/UC-6AA32OCY/)
