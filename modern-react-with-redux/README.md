@@ -10,10 +10,6 @@ Below some useful information:
 
  - [Udemy](https://www.udemy.com/react-redux/)
 
-## Get Started
-
-Coming soon...
-
 ## Certificate
 
 [Certificate: Modern React with Redux](https://www.udemy.com/certificate/UC-8CK60BU2/)
