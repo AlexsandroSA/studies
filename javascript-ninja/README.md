@@ -11,7 +11,7 @@ O objetivo desse curso é ensinar JavaScript DE VERDADE! Se você já está a mu
 
 ### Desafios
 
-...
+[Lista com os desafios no github](https://github.com/AlexsandroSA/curso-javascript-ninja)
 
 ### Certificado
 
