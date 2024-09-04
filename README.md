@@ -15,3 +15,7 @@ Courses, books and other things
  - 🇧🇷 [JS com TDD na Prática](js-com-tdd-na-pratica)
  - :us: [Learn Redux](learn-redux)
  - :us: [Modern React with Redux](modern-react-with-redux)
+
+### 🎮 Side Projects
+ - [weather-app](https://github.com/AlexsandroSA/weather-app)
+ - [timbuktu](https://github.com/AlexsandroSA/timbuktu)
